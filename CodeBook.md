@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This is for cleaning data final assignment .This code book summarizes the resulting data fields in `tidy.txt`.
 
 ## Identifiers
 
